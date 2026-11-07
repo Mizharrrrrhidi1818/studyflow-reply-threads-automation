@@ -1,10 +1,8 @@
-# StudyFlow AI Thread Automation
-
 **Automated Threads Engagement for a Study Abroad Webinar**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/) ![Platform](https://img.shields.io/badge/Platform-Ubuntu-informational) ![Scheduling](https://img.shields.io/badge/Scheduling-systemd-blueviolet) ![Database](https://img.shields.io/badge/Database-SQLite-07405E)
 
-StudyFlow AI is a Python-based workflow that monitors replies to a designated Meta Threads post, identifies webinar-related questions, and publishes contextual, template-based responses through the official Threads API. It was developed as a practical Linux VPS automation project for a self-funded study-abroad webinar in Poland. A lightweight Python proof-of-concept for responding to relevant comments on **my own** Threads webinar promotional post. It directs interested users to the existing **paid** webinar registration page:
+StudyFlow Automation Reply in Thread is a Python-based workflow that monitors replies to a designated Meta Threads post, identifies webinar-related questions, and publishes contextual, template-based responses through the official Threads API. It was developed as a practical Linux VPS automation project for a self-funded study-abroad webinar in Poland. A lightweight Python proof-of-concept for responding to relevant comments on **my own** Threads webinar promotional post. It directs interested users to the existing **paid** webinar registration page:
 
 https://bangkit-edu.myr.id/webinar/sharing-session-3rd-study-abroad-self-funded-in-poland
 
